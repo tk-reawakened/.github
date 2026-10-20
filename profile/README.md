@@ -14,6 +14,8 @@ RPG Toolkit Reawakened is not RPG Toolkit, and it doesn't try to replace it. It'
 
 **[Ludothèque](https://github.com/tk-reawakened/ludotheque)** is the recovered game corpus: historical RPG Toolkit 2/3 games preserved, with the original archived page text and packaging, as reference fixtures for compatibility testing and preservation research.
 
+**[Corpus](https://github.com/tk-reawakened/corpus)** is the written record: 15,580 recovered pages, forum threads, member profiles, game and file listings and documents from the community sites, written out as Markdown and [browsable and searchable online](https://tk-reawakened.github.io/corpus/). It is the place to look for what people actually said — how to do things in RPG Code, what broke, what was worth making, and who was there. Every entry carries its own provenance back to the archived page it came from.
+
 ## Where it stands
 
 It's early days, and nothing is playable yet. The recovery work is under way, and nothing is published until the people involved have had their say. The full written specification and architecture are done, and we're setting up the project's workspace and checks. The first goal is the player: a classic community game playing start to finish in a browser. Our first candidate is *Final Destiny*, by Christopher B. Matthews himself. The editor comes right after.
